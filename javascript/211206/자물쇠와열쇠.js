@@ -9,15 +9,6 @@ const rotateClockwise = (arr) => {
   return rotatedArr;
 };
 
-// console.log(
-//   rotateClockwise([
-//     [1, 2, 3, 4],
-//     [5, 6, 7, 8],
-//     [9, 10, 11, 12],
-//     [13, 14, 15, 16],
-//   ])
-// );
-
 const extendArr = (arr) => {
   const len = arr.length;
   const extendedArr = Array.from(Array(len * 3 - 2), () =>
@@ -50,15 +41,6 @@ const isFit = (originArrLen, test) => {
   }
   return true;
 };
-
-// console.log(
-//   extendArr([
-//     [1, 2, 3, 4],
-//     [5, 6, 7, 8],
-//     [9, 10, 11, 12],
-//     [13, 14, 15, 16],
-//   ])
-// );
 
 const solution = (key, lock) => {
   let rotate = 0;
