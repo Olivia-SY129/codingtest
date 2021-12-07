@@ -1,6 +1,6 @@
 # Best Time to Buy and Sell Stock
 
-LeetCode
+LeetCode  
 레벨 Easy  
 링크: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
@@ -26,8 +26,8 @@ LeetCode
 
 # 3Sum
 
-LeetCode
-레벨 Medium
+LeetCode  
+레벨 Medium  
 링크: https://leetcode.com/problems/3sum/
 
 ## 풀이시간
@@ -54,7 +54,8 @@ LeetCode
 
 # 문자열 압축
 
-프로그래머스 레벨 2
+프로그래머스  
+레벨 2  
 링크: https://programmers.co.kr/learn/courses/30/lessons/60057
 
 ## 풀이시간
