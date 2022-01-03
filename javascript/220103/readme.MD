@@ -39,3 +39,27 @@ LeetCode
 ## 후기
 
 전에 봤던 문제여서 비교적 빠르게 문제 풀이를 할 수 있었다. 브루트 포스에 의존하지 않도록 노력하자.
+
+</br>
+</br>
+</br>
+
+---
+
+# Array Partition I
+
+LeetCode  
+레벨 Easy  
+링크: https://leetcode.com/problems/array-partition-i/
+
+## 풀이시간
+
+3분
+
+## 풀이과정
+
+문제 풀이 핵심인 min(a, b)의 결과값이 무엇인지 유추하여 풀어야 한다. 배열을 정렬하여 i=홀수인 값을 sum에 누적한다.
+
+## 후기
+
+쉬운 문제였다.
