@@ -63,3 +63,27 @@ LeetCode
 ## 후기
 
 쉬운 문제였다.
+
+</br>
+</br>
+</br>
+
+---
+
+# Product of Array Except Self
+
+LeetCode  
+레벨 Medium
+링크: https://leetcode.com/problems/product-of-array-except-self/
+
+## 풀이시간
+
+40분
+
+## 풀이과정
+
+나눗셈이 불가하므로 현재 인덱스의 전, 후의 곱을 구해야한다. 각각 구하여 배열에 곱한 값을 반환했다.
+
+## 후기
+
+어려운 문제는 아니지만 처음 떠오르는 나눗셈, 브루트 포스를 사용할 수 없다는 점에서 난이도가 있었다.
