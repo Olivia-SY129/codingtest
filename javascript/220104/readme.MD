@@ -89,3 +89,28 @@ LeetCode
 ## 후기
 
 간단한 문제였는데도 어려웠다. node.val이 아닌 node 자체를 스왑하는 개념 때문에 head를 반환하지 못한다는 점을 알지 못해서 헤맸다.
+
+</br>
+</br>
+</br>
+
+---
+
+# Odd Even Linked List
+
+LeetCode  
+레벨 Medium  
+링크: https://leetcode.com/problems/odd-even-linked-list/
+
+## 풀이시간
+
+20분
+
+## 풀이과정
+
+시간복잡도 O(n)과 공간복잡도 O(1)의 제약이 있으므로 배열로 풀 수 없다.
+
+## 후기
+
+중복없이 간단하게 풀 수 있는 방법이 있을까?  
+head를 재정의하지 않고 그대로 이용하면 가능하지만 매개변수를 변하게 만든다.
