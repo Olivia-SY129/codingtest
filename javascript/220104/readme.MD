@@ -40,4 +40,28 @@ LeetCode
 
 ## 후기
 
-좀 더 짧게 푸는 방법이 있지 않을까?
+배열을 사용하지 않고 링크드 리스트만으로 푸는 방법도 있다. 다만 속도는 비슷하다.
+
+</br>
+</br>
+</br>
+
+---
+
+# Add Two Numbers
+
+LeetCode  
+레벨 Medium  
+링크: https://leetcode.com/problems/add-two-numbers/
+
+## 풀이시간
+
+40분
+
+## 풀이과정
+
+전가산기 구현 문제. 새 리스트에 두 자리수를 합한 값의 나머지를 넣고 몫은 nextDigit에 저장하여 다음 node.next.val에 포함한다.
+
+## 후기
+
+어려운 문제는 아니었지만 if 조건을 잘못 지정해서 한참 헤맸다.
