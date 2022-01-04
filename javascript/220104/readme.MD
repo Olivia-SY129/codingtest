@@ -65,3 +65,27 @@ LeetCode
 ## 후기
 
 어려운 문제는 아니었지만 if 조건을 잘못 지정해서 한참 헤맸다.
+
+</br>
+</br>
+</br>
+
+---
+
+# Swap Nodes in Pairs
+
+LeetCode  
+레벨 Medium  
+링크: https://leetcode.com/problems/swap-nodes-in-pairs/
+
+## 풀이시간
+
+-
+
+## 풀이과정
+
+단순히 next와 node를 바꾸면 cycle이 형성되어버린다. 따라서 리스트 연결 구조를 바꾸어야한다.
+
+## 후기
+
+간단한 문제였는데도 어려웠다. node.val이 아닌 node 자체를 스왑하는 개념 때문에 head를 반환하지 못한다는 점을 알지 못해서 헤맸다.
