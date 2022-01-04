@@ -24,20 +24,20 @@ LeetCode
 
 ---
 
-# Two Sum
+# Reverse Linked List
 
 LeetCode  
 레벨 Easy  
-링크: https://leetcode.com/problems/two-sum/
+링크: https://leetcode.com/problems/reverse-linked-list/
 
 ## 풀이시간
 
-5분
+10분
 
 ## 풀이과정
 
-정답이 한 쌍이라는 것을 이용하여 빠르게 for 문을 종료하는 것이 키포인트.
+리스트를 배열로 바꾸어 배열의 뒤부터 pop 하면서 새 리스트에 넣는다.
 
 ## 후기
 
-전에 봤던 문제여서 비교적 빠르게 문제 풀이를 할 수 있었다. 브루트 포스에 의존하지 않도록 노력하자.
+좀 더 짧게 푸는 방법이 있지 않을까?
