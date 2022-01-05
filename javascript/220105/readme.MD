@@ -46,23 +46,23 @@ LeetCode
 
 ---
 
-# Add Two Numbers
+# Remove Duplicate Letters
 
-Remove Duplicate Letters  
+LeetCode  
 레벨 Medium  
 링크: https://leetcode.com/problems/remove-duplicate-letters/
 
 ## 풀이시간
 
-.분
+-분
 
 ## 풀이과정
 
-.
+재귀(백트래킹) 또는 스택을 이용하여 풀 수 있다.
 
 ## 후기
 
-.
+어려운 문제로 시간 내에 풀지 못했다. 접근 방법에 대해 복습해야겠다.
 
 </br>
 </br>
@@ -78,15 +78,15 @@ LeetCode
 
 ## 풀이시간
 
--
+30분
 
 ## 풀이과정
 
-..
+스택을 이용하여 풀 수 있다. 스택에 쌓아둔 인덱스를 현재 온도와 비교하여 스택의 값이 작은 경우 해당 인덱스의 차를 결과 배열에 넣는다.
 
 ## 후기
 
-.
+접근 방법에 대해 혼란스럽긴했지만 크게 오래 걸리진 않았다.
 
 </br>
 </br>
